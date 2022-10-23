@@ -34,7 +34,28 @@ A
 6. Ground Superfine Mustard
 7. Simply Organic Oregano
 8. Citrus Chili and Garlic with Chia Seasoning
-9. 
+9. Parsley Flakes
+10. Freeze-Dried Chives
+11. Lemon & Pepper
+12. Paprika
+13. Spanish Saffron
+14. Smoked Paprika
+15. Ground Cinnamon
+16. Chipotle Roasted Garlic
+17. Sesame Seeds
+18. Ginger
+19. Green Goddess Dressing Base
+20. Ground Chipotle
+
+### Spice Rack - Row 3
+
+1. Thyme Leaf
+2. Ancho Chile Powder
+3. Penzeys Natural High Fat Cocoa
+4. Penzeys Pico Fruta
+5. Garlic Powder
+6. Tajin
+7. Ground Black Pepper
 
 ## What We Need
 
