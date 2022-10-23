@@ -41,7 +41,7 @@ A
 13. Spanish Saffron
 14. Smoked Paprika
 15. Ground Cinnamon
-16. Chipotle Roasted Garlic
+16. Chipotle Roasted Garlic x 2
 17. Sesame Seeds
 18. Ginger
 19. Green Goddess Dressing Base
@@ -54,8 +54,11 @@ A
 3. Penzeys Natural High Fat Cocoa
 4. Penzeys Pico Fruta
 5. Garlic Powder
-6. Tajin
+6. Tajin x 3
 7. Ground Black Pepper
+8. Crystallized Ginger
+9. Spicy Montreal Steak
+10. Rosemary
 
 ## What We Need
 
