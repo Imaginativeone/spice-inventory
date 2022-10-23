@@ -1,1 +1,1 @@
-# spice-inventory.md
+# spice-inventory
